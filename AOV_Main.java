@@ -23,7 +23,7 @@ public class AOV_Main {
 		tree.addShape(star);
 		
 		water_source.addShape(circle);
-		water_source.addShape(star);
+		water_source.addShape(square);
 
 		village.addShape(house);
 		village.addShape(tree);
@@ -34,7 +34,7 @@ public class AOV_Main {
 		house.showShapeType();
 		tree.showShapeType();
 		water_source.showShapeType();
-		
+
 		rectangle.showShapeType();
 		
 		
